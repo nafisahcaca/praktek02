@@ -8,5 +8,13 @@ public class RectangleAksi {
         
         rl.cetakInfo();
         System.out.println("luas rectangle ="+rl.hitungLuas());
+        rl.cetakLuas();
+        
+        Rectangle r2 = new Rectangle();
+        r2.cetakInfo();
+        
+        Rectangle r3 = new Rectangle();
+        r3.cetakInfo();
+        
     }
 }
